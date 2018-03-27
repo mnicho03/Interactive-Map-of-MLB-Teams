@@ -6,6 +6,7 @@ Michael Nichols
 
 3/27/2018
 
+'''{r}
 library(leaflet)
 MLB_TeamInfo <- read.csv("Baseball_team-locationDeets.csv", header = TRUE)
 conferencepal <- colorFactor(c("red", "blue"), MLB_TeamInfo$Conference) 
@@ -21,3 +22,4 @@ MLB_TeamInfo %>%
                                  "Location:", MLB_TeamInfo$City, "<br>",
                                  "Stadium:", MLB_TeamInfo$Stadium)) %>%
         addLegend("topright", pal = conferencepal, values = ~Conference, title = "MLB Conference Split")
+'''
