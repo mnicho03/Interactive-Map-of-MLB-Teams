@@ -1,0 +1,31 @@
+Team,City,Stadium,Conference,SeatingCapacity,latitude,longitude,Division
+Baltimore Orioles,"Baltimore, Maryland",Oriole Park at Camden Yards,American League,45971,39.285243,-76.620103,American League East
+Boston Red Sox,"Boston, Massachusetts",Fenway Park,American League,37949,42.346613,-71.098817,American League East
+New York Yankees,"New York City, New York",Yankee Stadium,American League,49638,40.819782,-73.929939,American League East
+Tampa Bay Rays,"St. Petersburg, Florida",Tropicana Field,American League,31042,27.768487,-82.648191,American League East
+Toronto Blue Jays,"Toronto, Ontario",Rogers Centre,American League,49282,43.641653,-79.3917,American League East
+Chicago White Sox,"Chicago, Illinois",Guaranteed Rate Field,American League,40615,41.830883,-87.635083,American League Central
+Cleveland Indians,"Cleveland, Ohio",Progressive Field,American League,35225,41.495149,-81.68709,American League Central
+Detroit Tigers,"Detroit, Michigan",Comerica Park,American League,41297,42.346354,-83.059619,American League Central
+Kansas City Royals,"Kansas City, Missouri",Kauffman Stadium,American League,37903,39.10222,-94.583559,American League Central
+Minnesota Twins,"Minneapolis, Minnesota",Target Field,American League,38871,44.974346,-93.259616,American League Central
+Houston Astros,"Houston, Texas",Minute Maid Park,American League,41676,29.76045,-95.369784,American League West
+Los Angeles Angels,"Anaheim, California",Angel Stadium,American League,45957,33.800294,-117.8828352,American League West
+Oakland Athletics,"Oakland, California",Oakland–Alameda County Coliseum,American League,35067,37.74923,-122.196487,American League West
+Seattle Mariners,"Seattle, Washington",Safeco Field,American League,47943,47.60174,-122.330829,American League West
+Texas Rangers,"Arlington, Texas",Globe Life Park in Arlington,American League,48114,32.750156,-97.081117,American League West
+Atlanta Braves,"Atlanta, Georgia",SunTrust Park,National League,41500,33.74691,-84.391239,National League East
+Miami Marlins,"Miami, Florida",Marlins Park,National League,36742,25.779181,-80.218029,National League East
+New York Mets,"New York City, New York",Citi Field,National League,41922,40.75535,-73.843219,National League East
+Philadelphia Phillies,"Philadelphia, Pennsylvania",Citizens Bank Park,National League,43651,39.952313,-75.162392,National League East
+Washington Nationals,"Washington, D.C.",Nationals Park,National League,41313,38.87,-77.01,National League East
+Chicago Cubs,"Chicago, Illinois",Wrigley Field,National League,41268,41.947201,-87.656413,National League Central
+Cincinnati Reds,"Cincinnati, Ohio",Great American Ball Park,National League,42319,39.107183,-84.507713,National League Central
+Milwaukee Brewers,"Milwaukee, Wisconsin",Miller Park,National League,41900,43.04205,-87.905599,National League Central
+Pittsburgh Pirates,"Pittsburgh, Pennsylvania",PNC Park,National League,38362,40.461503,-80.008924,National League Central
+St. Louis Cardinals,"St. Louis, Missouri",Busch Stadium,National League,43975,38.629683,-90.188247,National League Central
+Arizona Diamondbacks,"Phoenix, Arizona",Chase Field,National League,48519,33.452922,-112.038669,National League West
+Colorado Rockies,"Denver, Colorado",Coors Field,National League,50398,39.75698,-104.965329,National League West
+Los Angeles Dodgers,"Los Angeles, California",Dodger Stadium,National League,56000,34.072437,-118.246879,National League West
+San Diego Padres,"San Diego, California",Petco Park,National League,40162,32.752148,-117.143635,National League West
+San Francisco Giants,"San Francisco, California",AT&T Park,National League,41915,37.77987,-122.389754,National League West
